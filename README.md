@@ -1,2 +1,1 @@
-# RiseClientOnWeb
-浏览器可有玩的Rise客户端
+将rise移植到eaglercraft
